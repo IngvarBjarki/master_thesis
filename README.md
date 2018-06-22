@@ -1,5 +1,5 @@
-# master_thesis
-Privacy preserving machine learning
+# Machine Learning with Respect to Privacy 
+
 
 ## Abstract
 
